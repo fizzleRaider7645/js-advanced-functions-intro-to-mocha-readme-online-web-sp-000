@@ -10,6 +10,6 @@ function sayHeyFriend(name) {
   return `Hey, ${name}!`;
 }
 
-function favoriteIceCream() {
+function favoriteIceCream(flavor) {
   
 }
